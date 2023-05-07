@@ -1,14 +1,6 @@
-<style>
-  body { background-color:#191622;  max-width: 80ch; }
+# Simple website usando HTML e CSS
 
-  li::marker {color: #7F5AF0; }
-  a { color: #7F5AF0;}
-  a:hover { color: #583ea8;}
-</style>
-
-<h1>Simple website usando HTML e CSS</h1>
-
-<h2>Este é o primeiro projeto que publico aqui no <b>Github</b> ^^</h2>
+## Este é o primeiro projeto que publico aqui no **Github** ^^
 
 <br>
 
@@ -18,22 +10,18 @@
 
 ## 🚀 Tecnologias
 
-<p>Esse projeto foi desenvolvido com as seguintes técnicas:</p>
+Esse projeto foi desenvolvido com as seguintes técnicas:
 
-<ul>
-  <li>HTML5 & CSS3</li>
-  <li>Mobile first</li>
-  <li>Versão dark e light (color-scheme)</li>
-  <li>Flexbox e Grid CSS</li>
-  <li>Convenção BEM</li>
-  <li>Componentes independentes</li>
-</ul>
+- HTML5 & CSS3
+- Mobile first
+- Versão dark e light (color-scheme)
+- Flexbox e Grid CSS
+- Convenção BEM
+- Componentes independentes
 
 <br>
 
-<p>
-  Posteriormente pretendo adicionar um <b>botão de alternância</b> entre as versões dark e light. Você pode acessa a versão light (ou dark) mudando as configurações de aparência do navegador.
-</p>
+Posteriormente pretendo adicionar um **botão de alternância** entre as versões dark e light. Você pode acessa a versão light (ou dark) mudando as configurações de aparência do navegador.
 
 <br>
 
