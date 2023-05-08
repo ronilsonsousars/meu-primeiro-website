@@ -25,8 +25,6 @@ Posteriormente pretendo adicionar um **botão de alternância** entre as versõe
 
 <br>
 
-[**ACESSAR SITE**](https://ronilsonsousars.github.io/basic-webiste/)
-
 <br>
 
 ## 🔖 Layout
